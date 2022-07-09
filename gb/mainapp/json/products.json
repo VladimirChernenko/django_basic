@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Стул",
+        "category": "Дом",
+        "image": "products_images/product-1.jpg",
+        "short_des": "Описание продукта",
+        "description": "Описание продукта",
+        "price": 5000.0,
+        "quantity": 100
+    },
+    {
+        "name": "Стул",
+        "category": "Дом",
+        "image": "products_images/product-1.jpg",
+        "short_des": "Описание продукта",
+        "description": "Описание продукта",
+        "price": 5000.0,
+        "quantity": 100
+    },
+    {
+        "name": "Стул",
+        "category": "Офис",
+        "image": "products_images/product-3.jpg",
+        "short_des": "Описание продукта",
+        "description": "Описание продукта",
+        "price": 5000.0,
+        "quantity": 100
+    },
+    {
+        "name": "Стул",
+        "category": "Офис",
+        "image": "products_images/product-3.jpg",
+        "short_des": "Описание продукта",
+        "description": "Описание продукта",
+        "price": 5000.0,
+        "quantity": 100
+    },
+    {
+        "name": "Стул",
+        "category": "Модерн",
+        "image": "products_images/product-4.jpg",
+        "short_des": "Описание продукта",
+        "description": "Описание продукта",
+        "price": 5000.0,
+        "quantity": 100
+    },
+    {
+        "name": "Стул",
+        "category": "Модерн",
+        "image": "products_images/product-4.jpg",
+        "short_des": "Описание продукта",
+        "description": "Описание продукта",
+        "price": 5000.0,
+        "quantity": 100
+    },
+    {
+        "name": "Стул",
+        "category": "Классика",
+        "image": "products_images/product-21.jpg",
+        "short_des": "Описание продукта",
+        "description": "Описание продукта",
+        "price": 5000.0,
+        "quantity": 100
+    },
+    {
+        "name": "Стул",
+        "category": "Классика",
+        "image": "products_images/product-21.jpg",
+        "short_des": "Описание продукта",
+        "description": "Описание продукта",
+        "price": 5000.0,
+        "quantity": 100
+    }
+]
